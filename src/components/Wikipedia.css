@@ -1,0 +1,10 @@
+.GeoCity {
+    margin-top: 130px;
+}
+.WikiApp { text-align: center; margin-top: 130px;}
+.WikiApp h2 {color:#17a2b8; margin-bottom: 20px;}
+input[type="text"] { color: #000 !important;}
+.WikiApp form { margin-bottom: 60px;}
+.WikiApp button {
+    margin-bottom: 30px;
+}
